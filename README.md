@@ -1,3 +1,5 @@
+![Cover](./cover.jpeg)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on an ebanking project
